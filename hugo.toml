@@ -16,7 +16,7 @@ enableRobotsTXT = true
 author = "Jeff(Yueqaing) Huang"
 intro = "190cm handsome boy"
 description = "As mentioned above"
-authorimage = "headshot.jpg"
+authorimage = "/img/headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
