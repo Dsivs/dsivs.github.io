@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Call Me Jeff</title>
-    <link>https://dsivs.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Call Me Jeff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 May 2025 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://dsivs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://dsivs.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
-      <guid>https://dsivs.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Hi, I’m Jeff Huang — an engineer and builder driven by the challenge of turning complex systems into intelligent, impactful solutions.&lt;/p&gt;&#xA;&lt;p&gt;I’m currently exploring the convergence of &lt;strong&gt;artificial intelligence&lt;/strong&gt;, &lt;strong&gt;financial modeling&lt;/strong&gt;, and &lt;strong&gt;distributed computing&lt;/strong&gt;, with a focus on designing systems that scale, adapt, and learn. My work spans from backend development and algorithmic trading infrastructure to research in applied machine learning and real-time data processing.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I’ve contributed to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quantitative tools for market signal analysis&lt;/li&gt;&#xA;&lt;li&gt;Large-scale backend systems optimized for performance and reliability&lt;/li&gt;&#xA;&lt;li&gt;AI-driven prototypes in robotics and automation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Beyond the code, I believe in clarity, continuous iteration, and pushing boundaries. I&amp;rsquo;m always exploring new technologies — not just for novelty, but for how they can solve real problems better, faster, or more elegantly.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Experience</title>
-      <link>https://dsivs.github.io/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
-      <guid>https://dsivs.github.io/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;-education&#34;&gt;🎓 Education&lt;/h2&gt;&#xA;&lt;h3 id=&#34;cornell-university-us&#34;&gt;Cornell University, US&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;M.Eng. in Operations Research and Information Engineering&lt;/strong&gt;&#xA;&lt;em&gt;Aug 2024 – Dec 2025 (Expected)&lt;/em&gt;&#xA;Focus: Optimization, Supply Chain Analytics, Machine Learning in Finance&lt;/p&gt;&#xA;&lt;h3 id=&#34;university-of-british-columbia-canada&#34;&gt;University of British Columbia, Canada&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;B.S. in Computer Science and Statistics&lt;/strong&gt; &lt;em&gt;Sept 2019 – June 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Graduated with Honors | 3.77/4&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-experience&#34;&gt;💼 Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;quantitative-developer-intern&#34;&gt;Quantitative Developer Intern&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Shenzhen FinTech Lab&lt;/strong&gt; | Summer 2024&lt;em&gt;Python, XGBoost, Docker, Git, Pandas, Financial Data APIs&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed an AI-based system to detect abnormal trading patterns using order book imbalance features.&lt;/li&gt;&#xA;&lt;li&gt;Built supervised models to classify market direction and optimized thresholds to outperform TWAP.&lt;/li&gt;&#xA;&lt;li&gt;Automated feature engineering and model evaluation with reproducible pipelines in Docker.&lt;/li&gt;&#xA;&lt;li&gt;Improved detection accuracy by 24% over prior baseline using custom side-aware factor models.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;java-development-intern&#34;&gt;Java Development Intern&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Huawei Technologies&lt;/strong&gt; | Summer 2023&lt;em&gt;Java, Spring Boot, RPC, Protobuf&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>P1</title>
-      <link>https://dsivs.github.io/projects/project1/</link>
+      <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
-      <guid>https://dsivs.github.io/projects/project1/</guid>
+      <guid>http://localhost:1313/projects/project1/</guid>
       <description>&lt;p&gt;Details about the project here&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>P2</title>
-      <link>https://dsivs.github.io/projects/project2/</link>
+      <link>http://localhost:1313/projects/project2/</link>
       <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
-      <guid>https://dsivs.github.io/projects/project2/</guid>
+      <guid>http://localhost:1313/projects/project2/</guid>
       <description>&lt;p&gt;hihihihi&lt;/p&gt;</description>
     </item>
   </channel>

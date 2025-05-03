@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'NerdSymbols';
-    src: url('/fonts/NerdFontsSymbolsOnly.ttf') format('truetype');
+    src: url('https://dsivs.github.io/fonts/NerdFontsSymbolsOnly.ttf') format('truetype');
   }
   
   .nf-icon {
