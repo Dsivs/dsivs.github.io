@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Call Me Jeff</title>
-    <link>//localhost:1313/categories/</link>
+    <link>https://dsivs.github.io/categories/</link>
     <description>Recent content in Categories on Call Me Jeff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 May 2025 07:07:07 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dsivs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>//localhost:1313/categories/about/</link>
+      <link>https://dsivs.github.io/categories/about/</link>
       <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
-      <guid>//localhost:1313/categories/about/</guid>
+      <guid>https://dsivs.github.io/categories/about/</guid>
       <description></description>
     </item>
   </channel>
