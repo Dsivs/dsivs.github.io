@@ -1,0 +1,10 @@
+<header class="text-center header">
+  {{ with .Site.Params.authorimage }}
+    <img src="{{ . | relURL }}" 
+         alt="Author Image" 
+         class="img-fluid rounded-circle mx-auto d-block headshot"
+         style="width: 250px; height: 250px; object-fit: cover;">
+  {{ end }}
+
+  <h1 class="author mt-3">{{ .Site.Params.author }}</h1>
+</header>
