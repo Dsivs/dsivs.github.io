@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RL on Jeff</title>
+    <link>http://localhost:1313/tags/rl/</link>
+    <description>Recent content in RL on Jeff</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Trading Bot</title>
+      <link>http://localhost:1313/projects/project1/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project1/</guid>
+      <description>&lt;p&gt;Details about the project here&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

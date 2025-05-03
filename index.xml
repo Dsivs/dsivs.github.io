@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Call Me Jeff</title><link>http://localhost:1313/</link><description>Recent content on Call Me Jeff</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>http://localhost:1313/about/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>http://localhost:1313/about/</guid><description>&lt;p>Hi, I’m Jeff Huang — an engineer and builder driven by the challenge of turning complex systems into intelligent, impactful solutions.&lt;/p>
+&lt;p>I’m currently exploring the convergence of &lt;strong>artificial intelligence&lt;/strong>, &lt;strong>financial modeling&lt;/strong>, and &lt;strong>distributed computing&lt;/strong>, with a focus on designing systems that scale, adapt, and learn. My work spans from backend development and algorithmic trading infrastructure to research in applied machine learning and real-time data processing.&lt;/p>
+&lt;p>Previously, I’ve contributed to:&lt;/p>
+&lt;ul>
+&lt;li>Quantitative tools for market signal analysis&lt;/li>
+&lt;li>Large-scale backend systems optimized for performance and reliability&lt;/li>
+&lt;li>AI-driven prototypes in robotics and automation&lt;/li>
+&lt;/ul>
+&lt;p>Beyond the code, I believe in clarity, continuous iteration, and pushing boundaries. I&amp;rsquo;m always exploring new technologies — not just for novelty, but for how they can solve real problems better, faster, or more elegantly.&lt;/p></description></item><item><title>Experience</title><link>http://localhost:1313/experience/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>http://localhost:1313/experience/</guid><description>&lt;pre tabindex="0">&lt;code>&lt;/code>&lt;/pre>&lt;h2 id="-education">🎓 Education&lt;/h2>
+&lt;h3 id="cornell-university-us">Cornell University, US&lt;/h3>
+&lt;p>&lt;strong>M.Eng. in Operations Research and Information Engineering&lt;/strong>
+&lt;em>Aug 2024 – Dec 2025 (Expected)&lt;/em>
+Focus: Optimization, Supply Chain Analytics, Machine Learning in Finance&lt;/p>
+&lt;h3 id="university-of-british-columbia-canada">University of British Columbia, Canada&lt;/h3>
+&lt;p>&lt;strong>B.S. in Computer Science and Statistics&lt;/strong> &lt;em>Sept 2019 – June 2024&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Graduated with Honors | 3.77/4&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h2 id="-experience">💼 Experience&lt;/h2>
+&lt;h3 id="quantitative-developer-intern">Quantitative Developer Intern&lt;/h3>
+&lt;p>&lt;strong>Shenzhen FinTech Lab&lt;/strong> | Summer 2024&lt;em>Python, XGBoost, Docker, Git, Pandas, Financial Data APIs&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Developed an AI-based system to detect abnormal trading patterns using order book imbalance features.&lt;/li>
+&lt;li>Built supervised models to classify market direction and optimized thresholds to outperform TWAP.&lt;/li>
+&lt;li>Automated feature engineering and model evaluation with reproducible pipelines in Docker.&lt;/li>
+&lt;li>Improved detection accuracy by 24% over prior baseline using custom side-aware factor models.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="java-development-intern">Java Development Intern&lt;/h3>
+&lt;p>&lt;strong>Huawei Technologies&lt;/strong> | Summer 2023&lt;em>Java, Spring Boot, RPC, Protobuf&lt;/em>&lt;/p></description></item><item><title>P1</title><link>http://localhost:1313/projects/project1/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>http://localhost:1313/projects/project1/</guid><description>&lt;p>Details about the project here&amp;hellip;&lt;/p></description></item><item><title>P2</title><link>http://localhost:1313/projects/project2/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>http://localhost:1313/projects/project2/</guid><description>&lt;p>hihihihi&lt;/p></description></item></channel></rss>
