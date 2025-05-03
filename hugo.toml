@@ -1,0 +1,59 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Call Me Jeff'
+theme = "hugo-goa"
+enableRobotsTXT = true
+## Hugo Built-in Features
+# disqusShortname = "discusShortname" # Enable if you want to use Disqus
+# googleAnalytics = "UA-XXXXXXXX-X" # Enable if you want to use Google Analytics
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+## Site Settings
+[params]
+author = "Jeff(Yueqaing) Huang"
+intro = "190cm handsome boy"
+description = "As mentioned above"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "dsivs"
+instagram = "jefferyhuang1"
+linkedin = "jeff-huang-4892b2326"
+steam = "76561198250380660"
+email = "yh2327@cornell.edu"
+
+## Extras
+[params.extra]
+copyright = "© 2024. Jeff Huang. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = false
+highlightjs = false
+socialmarkup = false
+toc = true
+displayrssicon = false
+
+## Main MenP
+[[menu.main]]
+name = "About"
+identifier = "About"
+weight = 200
+url = "about/"
+[[menu.main]]
+name = "Experience"
+identifier = "Experience"
+weight = 200
+url = "experience/"
+[[menu.main]]
+name = "Projects"
+identifier = "projects"
+weight = 300
+url = "projects/"
