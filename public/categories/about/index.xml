@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>About on Call Me Jeff</title>
-    <link>http://localhost:62959/categories/about/</link>
-    <description>Recent content in About on Call Me Jeff</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 May 2025 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:62959/categories/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:62959/about/</link>
-      <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
-      <guid>http://localhost:62959/about/</guid>
-      <description>&lt;p&gt;Hi, I’m Jeff Huang — an engineer and builder driven by the challenge of turning complex systems into intelligent, impactful solutions.&lt;/p&gt;&#xA;&lt;p&gt;I’m currently exploring the convergence of &lt;strong&gt;artificial intelligence&lt;/strong&gt;, &lt;strong&gt;financial modeling&lt;/strong&gt;, and &lt;strong&gt;distributed computing&lt;/strong&gt;, with a focus on designing systems that scale, adapt, and learn. My work spans from backend development and algorithmic trading infrastructure to research in applied machine learning and real-time data processing.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I’ve contributed to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quantitative tools for market signal analysis&lt;/li&gt;&#xA;&lt;li&gt;Large-scale backend systems optimized for performance and reliability&lt;/li&gt;&#xA;&lt;li&gt;AI-driven prototypes in robotics and automation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Beyond the code, I believe in clarity, continuous iteration, and pushing boundaries. I&amp;rsquo;m always exploring new technologies — not just for novelty, but for how they can solve real problems better, faster, or more elegantly.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Call Me Jeff</title><link>https://dsivs.github.io/categories/about/</link><description>Recent content in About on Call Me Jeff</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 07:07:07 +0100</lastBuildDate><atom:link href="https://dsivs.github.io/categories/about/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://dsivs.github.io/about/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>https://dsivs.github.io/about/</guid><description>&lt;p>Hi, I’m Jeff Huang — an engineer and builder driven by the challenge of turning complex systems into intelligent, impactful solutions.&lt;/p>
+&lt;p>I’m currently exploring the convergence of &lt;strong>artificial intelligence&lt;/strong>, &lt;strong>financial modeling&lt;/strong>, and &lt;strong>distributed computing&lt;/strong>, with a focus on designing systems that scale, adapt, and learn. My work spans from backend development and algorithmic trading infrastructure to research in applied machine learning and real-time data processing.&lt;/p>
+&lt;p>Previously, I’ve contributed to:&lt;/p>
+&lt;ul>
+&lt;li>Quantitative tools for market signal analysis&lt;/li>
+&lt;li>Large-scale backend systems optimized for performance and reliability&lt;/li>
+&lt;li>AI-driven prototypes in robotics and automation&lt;/li>
+&lt;/ul>
+&lt;p>Beyond the code, I believe in clarity, continuous iteration, and pushing boundaries. I&amp;rsquo;m always exploring new technologies — not just for novelty, but for how they can solve real problems better, faster, or more elegantly.&lt;/p></description></item></channel></rss>

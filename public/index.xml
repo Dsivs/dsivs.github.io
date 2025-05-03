@@ -1,40 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Call Me Jeff</title>
-    <link>http://localhost:62959/</link>
-    <description>Recent content on Call Me Jeff</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 May 2025 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:62959/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:62959/about/</link>
-      <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
-      <guid>http://localhost:62959/about/</guid>
-      <description>&lt;p&gt;Hi, I’m Jeff Huang — an engineer and builder driven by the challenge of turning complex systems into intelligent, impactful solutions.&lt;/p&gt;&#xA;&lt;p&gt;I’m currently exploring the convergence of &lt;strong&gt;artificial intelligence&lt;/strong&gt;, &lt;strong&gt;financial modeling&lt;/strong&gt;, and &lt;strong&gt;distributed computing&lt;/strong&gt;, with a focus on designing systems that scale, adapt, and learn. My work spans from backend development and algorithmic trading infrastructure to research in applied machine learning and real-time data processing.&lt;/p&gt;&#xA;&lt;p&gt;Previously, I’ve contributed to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quantitative tools for market signal analysis&lt;/li&gt;&#xA;&lt;li&gt;Large-scale backend systems optimized for performance and reliability&lt;/li&gt;&#xA;&lt;li&gt;AI-driven prototypes in robotics and automation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Beyond the code, I believe in clarity, continuous iteration, and pushing boundaries. I&amp;rsquo;m always exploring new technologies — not just for novelty, but for how they can solve real problems better, faster, or more elegantly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Distributed Vector Database</title>
-      <link>http://localhost:62959/projects/distributed_vector_database/</link>
-      <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
-      <guid>http://localhost:62959/projects/distributed_vector_database/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:62959/img/DB.png&#34; alt=&#34;The workflow of my database&#34; style=&#34;max-width: 80%; height: auto;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Designed and implemented a &lt;strong&gt;distributed vector database&lt;/strong&gt; to efficiently store, index, and retrieve high-dimensional vectors across multiple nodes. The system supports &lt;strong&gt;parallel similarity search&lt;/strong&gt; using vector embeddings and ensures scalability and fault tolerance through a  &lt;strong&gt;sharded architecture with replication&lt;/strong&gt; . Core features include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;RPC-based communication&lt;/strong&gt; using gRPC for efficient inter-node messaging.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom indexing layer&lt;/strong&gt; using &lt;strong&gt;FAISS&lt;/strong&gt; (or HNSW, if applicable) for fast approximate nearest neighbor (ANN) search.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Consistent hashing&lt;/strong&gt; for data partitioning and load balancing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Protobuf-based schema&lt;/strong&gt; for defining structured data and query interfaces.&lt;/li&gt;&#xA;&lt;li&gt;Integrated &lt;strong&gt;metadata management&lt;/strong&gt; to track vector IDs, versions, and node assignments.&lt;/li&gt;&#xA;&lt;li&gt;Optimized for low-latency query responses and horizontal scalability.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This project demonstrates system design skills in  &lt;strong&gt;distributed systems, high-performance computing, and vector search algorithms&lt;/strong&gt; , suitable for applications in recommendation systems, image retrieval, and NLP.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Experience</title>
-      <link>http://localhost:62959/experience/</link>
-      <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
-      <guid>http://localhost:62959/experience/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;-education&#34;&gt;🎓 Education&lt;/h2&gt;&#xA;&lt;h3 id=&#34;cornell-university-us&#34;&gt;Cornell University, US&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;M.Eng. in Operations Research and Information Engineering&lt;/strong&gt;&#xA;&lt;em&gt;Aug 2024 – Dec 2025 (Expected)&lt;/em&gt;&#xA;Focus: Optimization, Supply Chain Analytics, Machine Learning in Finance&lt;/p&gt;&#xA;&lt;h3 id=&#34;university-of-british-columbia-canada&#34;&gt;University of British Columbia, Canada&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;B.S. in Computer Science and Statistics&lt;/strong&gt; &lt;em&gt;Sept 2019 – June 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Graduated with Honors | 3.77/4&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-experience&#34;&gt;💼 Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;quantitative-developer-intern&#34;&gt;Quantitative Developer Intern&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Shenzhen FinTech Lab&lt;/strong&gt; | Summer 2024&lt;em&gt;Python, XGBoost, Docker, Git, Pandas, Financial Data APIs&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed an AI-based system to detect abnormal trading patterns using order book imbalance features.&lt;/li&gt;&#xA;&lt;li&gt;Built supervised models to classify market direction and optimized thresholds to outperform TWAP.&lt;/li&gt;&#xA;&lt;li&gt;Automated feature engineering and model evaluation with reproducible pipelines in Docker.&lt;/li&gt;&#xA;&lt;li&gt;Improved detection accuracy by 24% over prior baseline using custom side-aware factor models.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;java-development-intern&#34;&gt;Java Development Intern&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Huawei Technologies&lt;/strong&gt; | Summer 2023&lt;em&gt;Java, Spring Boot, RPC, Protobuf&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Portfolio Optimization</title>
-      <link>http://localhost:62959/projects/portfolio_optimization/</link>
-      <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
-      <guid>http://localhost:62959/projects/portfolio_optimization/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:62959/img/transformer_opt.png&#34; alt=&#34;The general workflow&#34; style=&#34;max-width: 50%; height: auto;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;In recent years, the intersection of machine learning and quantitative finance has opened new opportunities for more accurate and adaptive investment strategies. This project explores the integration of two powerful tools: the  &lt;strong&gt;Transformer model&lt;/strong&gt; , a deep learning architecture originally developed for natural language processing, and the  &lt;strong&gt;Markowitz portfolio theory&lt;/strong&gt; , a classical framework for risk-return optimization in portfolio management.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Transformer model&lt;/strong&gt; excels at capturing complex, time-dependent patterns in sequential data using a mechanism known as  &lt;em&gt;self-attention&lt;/em&gt; . This allows the model to learn relationships between distant points in a sequence without relying on recurrence, making it well-suited for forecasting tasks in financial time series where market signals are often subtle and spread out over time.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Call Me Jeff</title><link>https://dsivs.github.io/</link><description>Recent content on Call Me Jeff</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 07:07:07 +0100</lastBuildDate><atom:link href="https://dsivs.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://dsivs.github.io/about/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>https://dsivs.github.io/about/</guid><description>&lt;p>Hi, I’m Jeff Huang — an engineer and builder driven by the challenge of turning complex systems into intelligent, impactful solutions.&lt;/p>
+&lt;p>I’m currently exploring the convergence of &lt;strong>artificial intelligence&lt;/strong>, &lt;strong>financial modeling&lt;/strong>, and &lt;strong>distributed computing&lt;/strong>, with a focus on designing systems that scale, adapt, and learn. My work spans from backend development and algorithmic trading infrastructure to research in applied machine learning and real-time data processing.&lt;/p>
+&lt;p>Previously, I’ve contributed to:&lt;/p>
+&lt;ul>
+&lt;li>Quantitative tools for market signal analysis&lt;/li>
+&lt;li>Large-scale backend systems optimized for performance and reliability&lt;/li>
+&lt;li>AI-driven prototypes in robotics and automation&lt;/li>
+&lt;/ul>
+&lt;p>Beyond the code, I believe in clarity, continuous iteration, and pushing boundaries. I&amp;rsquo;m always exploring new technologies — not just for novelty, but for how they can solve real problems better, faster, or more elegantly.&lt;/p></description></item><item><title>Distributed Vector Database</title><link>https://dsivs.github.io/projects/distributed_vector_database/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>https://dsivs.github.io/projects/distributed_vector_database/</guid><description>&lt;hr>
+&lt;div style="text-align: center;">
+ &lt;img src="https://dsivs.github.io/img/DB.png" alt="The workflow of my database" style="max-width: 80%; height: auto;">
+&lt;/div>
+&lt;p>Designed and implemented a &lt;strong>distributed vector database&lt;/strong> to efficiently store, index, and retrieve high-dimensional vectors across multiple nodes. The system supports &lt;strong>parallel similarity search&lt;/strong> using vector embeddings and ensures scalability and fault tolerance through a &lt;strong>sharded architecture with replication&lt;/strong> . Core features include:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>RPC-based communication&lt;/strong> using gRPC for efficient inter-node messaging.&lt;/li>
+&lt;li>&lt;strong>Custom indexing layer&lt;/strong> using &lt;strong>FAISS&lt;/strong> (or HNSW, if applicable) for fast approximate nearest neighbor (ANN) search.&lt;/li>
+&lt;li>&lt;strong>Consistent hashing&lt;/strong> for data partitioning and load balancing.&lt;/li>
+&lt;li>&lt;strong>Protobuf-based schema&lt;/strong> for defining structured data and query interfaces.&lt;/li>
+&lt;li>Integrated &lt;strong>metadata management&lt;/strong> to track vector IDs, versions, and node assignments.&lt;/li>
+&lt;li>Optimized for low-latency query responses and horizontal scalability.&lt;/li>
+&lt;/ul>
+&lt;p>This project demonstrates system design skills in &lt;strong>distributed systems, high-performance computing, and vector search algorithms&lt;/strong> , suitable for applications in recommendation systems, image retrieval, and NLP.&lt;/p></description></item><item><title>Experience</title><link>https://dsivs.github.io/experience/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>https://dsivs.github.io/experience/</guid><description>&lt;pre tabindex="0">&lt;code>&lt;/code>&lt;/pre>&lt;h2 id="-education">🎓 Education&lt;/h2>
+&lt;h3 id="cornell-university-us">Cornell University, US&lt;/h3>
+&lt;p>&lt;strong>M.Eng. in Operations Research and Information Engineering&lt;/strong>
+&lt;em>Aug 2024 – Dec 2025 (Expected)&lt;/em>
+Focus: Optimization, Supply Chain Analytics, Machine Learning in Finance&lt;/p>
+&lt;h3 id="university-of-british-columbia-canada">University of British Columbia, Canada&lt;/h3>
+&lt;p>&lt;strong>B.S. in Computer Science and Statistics&lt;/strong> &lt;em>Sept 2019 – June 2024&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Graduated with Honors | 3.77/4&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h2 id="-experience">💼 Experience&lt;/h2>
+&lt;h3 id="quantitative-developer-intern">Quantitative Developer Intern&lt;/h3>
+&lt;p>&lt;strong>Shenzhen FinTech Lab&lt;/strong> | Summer 2024&lt;em>Python, XGBoost, Docker, Git, Pandas, Financial Data APIs&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Developed an AI-based system to detect abnormal trading patterns using order book imbalance features.&lt;/li>
+&lt;li>Built supervised models to classify market direction and optimized thresholds to outperform TWAP.&lt;/li>
+&lt;li>Automated feature engineering and model evaluation with reproducible pipelines in Docker.&lt;/li>
+&lt;li>Improved detection accuracy by 24% over prior baseline using custom side-aware factor models.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="java-development-intern">Java Development Intern&lt;/h3>
+&lt;p>&lt;strong>Huawei Technologies&lt;/strong> | Summer 2023&lt;em>Java, Spring Boot, RPC, Protobuf&lt;/em>&lt;/p></description></item><item><title>Portfolio Optimization</title><link>https://dsivs.github.io/projects/portfolio_optimization/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>https://dsivs.github.io/projects/portfolio_optimization/</guid><description>&lt;hr>
+&lt;div style="text-align: center;">
+ &lt;img src="https://dsivs.github.io/img/transformer_opt.png" alt="The general workflow" style="max-width: 50%; height: auto;">
+&lt;/div>
+&lt;p>In recent years, the intersection of machine learning and quantitative finance has opened new opportunities for more accurate and adaptive investment strategies. This project explores the integration of two powerful tools: the &lt;strong>Transformer model&lt;/strong> , a deep learning architecture originally developed for natural language processing, and the &lt;strong>Markowitz portfolio theory&lt;/strong> , a classical framework for risk-return optimization in portfolio management.&lt;/p>
+&lt;p>The &lt;strong>Transformer model&lt;/strong> excels at capturing complex, time-dependent patterns in sequential data using a mechanism known as &lt;em>self-attention&lt;/em> . This allows the model to learn relationships between distant points in a sequence without relying on recurrence, making it well-suited for forecasting tasks in financial time series where market signals are often subtle and spread out over time.&lt;/p></description></item></channel></rss>
