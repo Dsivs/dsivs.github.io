@@ -1,4 +1,4 @@
-baseURL = "https://dsivs.github.io/"
+baseURL = "https://dsivs.github.io"
 languageCode = 'en-us'
 title = 'Call Me Jeff'
 theme = "hugo-goa"
