@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Call Me Jeff</title><link>https://dsivs.github.io/projects/</link><description>Recent content in Projects on Call Me Jeff</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 07:07:07 +0100</lastBuildDate><atom:link href="https://dsivs.github.io/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>P1</title><link>https://dsivs.github.io/projects/project1/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>https://dsivs.github.io/projects/project1/</guid><description>&lt;p>Details about the project here&amp;hellip;&lt;/p></description></item><item><title>P2</title><link>https://dsivs.github.io/projects/project2/</link><pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate><guid>https://dsivs.github.io/projects/project2/</guid><description>&lt;p>hihihihi&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Call Me Jeff</title>
+    <link>http://localhost:62959/projects/</link>
+    <description>Recent content in Projects on Call Me Jeff</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2025 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:62959/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributed Vector Database</title>
+      <link>http://localhost:62959/projects/distributed_vector_database/</link>
+      <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
+      <guid>http://localhost:62959/projects/distributed_vector_database/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:62959/img/DB.png&#34; alt=&#34;The workflow of my database&#34; style=&#34;max-width: 80%; height: auto;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Designed and implemented a &lt;strong&gt;distributed vector database&lt;/strong&gt; to efficiently store, index, and retrieve high-dimensional vectors across multiple nodes. The system supports &lt;strong&gt;parallel similarity search&lt;/strong&gt; using vector embeddings and ensures scalability and fault tolerance through a  &lt;strong&gt;sharded architecture with replication&lt;/strong&gt; . Core features include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;RPC-based communication&lt;/strong&gt; using gRPC for efficient inter-node messaging.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Custom indexing layer&lt;/strong&gt; using &lt;strong&gt;FAISS&lt;/strong&gt; (or HNSW, if applicable) for fast approximate nearest neighbor (ANN) search.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Consistent hashing&lt;/strong&gt; for data partitioning and load balancing.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Protobuf-based schema&lt;/strong&gt; for defining structured data and query interfaces.&lt;/li&gt;&#xA;&lt;li&gt;Integrated &lt;strong&gt;metadata management&lt;/strong&gt; to track vector IDs, versions, and node assignments.&lt;/li&gt;&#xA;&lt;li&gt;Optimized for low-latency query responses and horizontal scalability.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This project demonstrates system design skills in  &lt;strong&gt;distributed systems, high-performance computing, and vector search algorithms&lt;/strong&gt; , suitable for applications in recommendation systems, image retrieval, and NLP.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio Optimization</title>
+      <link>http://localhost:62959/projects/portfolio_optimization/</link>
+      <pubDate>Thu, 01 May 2025 07:07:07 +0100</pubDate>
+      <guid>http://localhost:62959/projects/portfolio_optimization/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;div style=&#34;text-align: center;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:62959/img/transformer_opt.png&#34; alt=&#34;The general workflow&#34; style=&#34;max-width: 50%; height: auto;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;In recent years, the intersection of machine learning and quantitative finance has opened new opportunities for more accurate and adaptive investment strategies. This project explores the integration of two powerful tools: the  &lt;strong&gt;Transformer model&lt;/strong&gt; , a deep learning architecture originally developed for natural language processing, and the  &lt;strong&gt;Markowitz portfolio theory&lt;/strong&gt; , a classical framework for risk-return optimization in portfolio management.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Transformer model&lt;/strong&gt; excels at capturing complex, time-dependent patterns in sequential data using a mechanism known as  &lt;em&gt;self-attention&lt;/em&gt; . This allows the model to learn relationships between distant points in a sequence without relying on recurrence, making it well-suited for forecasting tasks in financial time series where market signals are often subtle and spread out over time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
