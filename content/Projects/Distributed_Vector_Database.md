@@ -8,20 +8,11 @@ showpagemeta = false
 showReadingTime = false
 +++
 
-
-
 ---
 
-
-
-
-
 <div style="text-align: center;">
-  <img src="/img/DB.png" alt="The workflow of my database" style="max-width: 80%; height: auto;">
+  <img src="/img/DB.jpg" alt="The workflow of my database" style="max-width: 80%; height: auto;">
 </div>
-
-
-
 
 Designed and implemented a **distributed vector database** to efficiently store, index, and retrieve high-dimensional vectors across multiple nodes. The system supports **parallel similarity search** using vector embeddings and ensures scalability and fault tolerance through a  **sharded architecture with replication** . Core features include:
 
